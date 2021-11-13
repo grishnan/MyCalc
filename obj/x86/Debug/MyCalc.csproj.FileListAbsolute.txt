@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MyCalc\obj\x86\Debug\MyCalc.MyCalc.resources
+C:\Users\User\source\repos\MyCalc\obj\x86\Debug\MyCalc.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MyCalc\obj\x86\Debug\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyCalc\bin\Debug\WindowsApplication.exe
+C:\Users\User\source\repos\MyCalc\bin\Debug\WindowsApplication.pdb
+C:\Users\User\source\repos\MyCalc\obj\x86\Debug\WindowsApplication.exe
+C:\Users\User\source\repos\MyCalc\obj\x86\Debug\WindowsApplication.pdb
